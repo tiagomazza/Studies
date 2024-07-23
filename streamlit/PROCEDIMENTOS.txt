@@ -1,0 +1,4 @@
+Tire um relatório Clientes/artigo (com o intervalo desejado)
+Abra o arquivo e salve no formato .xlsx
+renomeie o arquivo para "mes" caso seja o mensal
+renomeie o arquivo para "ano" caso seja o relatório anual (e deseje fazer alteração ao já inserido)

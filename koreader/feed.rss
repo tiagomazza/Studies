@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Google Drive File Feed</title>
+        <link>https://github.com/tiagomazza/koreader/blob/main/feed.atom</link>
+        <description>Feed contendo links para arquivos do Google Drive</description>
+        <lastBuildDate>Sun, 23 Jun 2024 12:00:00 +0000</lastBuildDate>
+        <pubDate>Sun, 23 Jun 2024 12:00:00 +0000</pubDate>
+        <ttl>1800</ttl>
+        <item>
+            <title>Google Drive File</title>
+            <link>https://drive.google.com/uc?export=download&id=1i4RAo-L_6HeAHd3jZhLWq_KnOcni4ZAp</link>
+            <guid>https://drive.google.com/uc?export=download&id=1i4RAo-L_6HeAHd3jZhLWq_KnOcni4ZAp</guid>
+            <pubDate>Sun, 23 Jun 2024 12:00:00 +0000</pubDate>
+            <description>Link para download do arquivo do Google Drive</description>
+        </item>
+    </channel>
+</rss>

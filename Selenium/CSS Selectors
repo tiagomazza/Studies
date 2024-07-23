@@ -1,0 +1,30 @@
+/* Seletor de ID 
+
+
+/* seleciona pelo id #
+*/
+#lista-beneficios
+{background-color: yellow
+}
+
+/* selecionar por tipo
+elemento direto p, div, etc
+*/
+
+h1
+{background-color: green
+}
+
+/*seleciona classe com "." */
+.item-beneficio
+{background-color: red
+}
+
+/* combinações adicionar ,
+*/
+
+h2, h3
+{background-color: orange
+;}
+
+

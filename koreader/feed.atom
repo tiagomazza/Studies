@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Google Drive File Feed</title>
+    <link href="https://github.com/tiagomazza/koreader/blob/main/feed.atom" rel="self"/>
+    <updated>2024-06-23T12:00:00Z</updated>
+    <author>
+        <name>Nome do Autor</name>
+    </author>
+    <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+
+    <entry>
+        <title>Google Drive File</title>
+        <link href="https://tiagomazza.github.io/koreader/texto.txt" rel="alternate"/>
+        <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+        <updated>2024-06-23T12:00:00Z</updated>
+        <summary>Link to the Google Drive file for download.</summary>
+    </entry>
+</feed>
